@@ -2,6 +2,8 @@
 # obtenemos 3, 5, 6 y 9. La suma de éstos es 23.
 #
 # Encuentra la suma de todos los múltiplos de 3 o 5 por debajo de 1000.
+#
+# Fuente: https://projecteuler.net/problem=1
 
 
 def multiplo_tres(n):
