@@ -12,7 +12,7 @@ def multiplo_tres(n):
 
 
 def multiplo_cinco(n):
-    if n % 3 == 0:
+    if n % 5 == 0:
         return True
     else:
         False
